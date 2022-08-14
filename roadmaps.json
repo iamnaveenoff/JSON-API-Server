@@ -1,0 +1,62 @@
+[
+  {
+    "name": "QA",
+    "description": "QASteps to follow in order to become a modern QA Engineer in 2022Upcoming",
+    "url": "https://roadmap.sh/qa"
+  },
+  {
+    "name": "Postgresql",
+    "description": "DBAStep by step guide to becoming a modern PostgreSQL DB Administrator in 2022",
+    "url": "https://roadmap.sh/postgresql-dba"
+  },
+  {
+    "name": "devops",
+    "description": "DevOpsStep by step guide for DevOps, SRE or any other Operations Role in 2022",
+    "url": "https://roadmap.sh/devops"
+  },
+  {
+    "name": "golang",
+    "description": "GoStep by step guide to becoming a Go developer in 2022",
+    "url": "https://roadmap.sh/golang"
+  },
+  {
+    "name": "android",
+    "description": "AndroidStep by step guide to becoming an Android developer in 2022",
+    "url": "https://roadmap.sh/android"
+  },
+  {
+    "name": "react",
+    "description": "ReactEverything that is there to learn about React and the ecosystem in 2022.",
+    "url": "https://roadmap.sh/react"
+  },
+  {
+    "name": "vue",
+    "description": "VueEverything that is there to learn about Vue and the ecosystem in 2022.",
+    "url": "https://roadmap.sh/vue"
+  },
+  {
+    "name": "java",
+    "description": "JavaStep by step guide to becoming a Java developer in 2022",
+    "url": "https://roadmap.sh/java"
+  },
+  {
+    "name": "python",
+    "description": "PythonStep by step guide to becoming a Python developer in 2022",
+    "url": "https://roadmap.sh/python"
+  },
+  {
+    "name": "frontend",
+    "description": "FrontendStep by step guide to becoming a modern frontend developer in 2022",
+    "url": "https://roadmap.sh/frontend"
+  },
+  {
+    "name": "angular",
+    "description": "AngularEverything that is there to learn about Angular and the ecosystem in 2022.",
+    "url": "https://roadmap.sh/angular"
+  },
+  {
+    "name": "backend",
+    "description": "BackendStep by step guide to becoming a modern backend developer in 2022",
+    "url": "https://roadmap.sh/backend"
+  }
+]

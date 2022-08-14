@@ -1,0 +1,207 @@
+[
+    {
+      "name": "JS Fiddle",
+      "description": "Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.",
+      "url": "http://jsfiddle.net/"
+    },
+    {
+      "name": "Icons DB",
+      "description": "Search through more than 4100 free icons. IconsDB let's you customize and download icons. Browse icons by category. Download as ico, icns, png, gif or jpg.",
+      "url": "http://www.iconsdb.com/"
+    },
+    {
+      "name": "Chrome Color Extension",
+      "description": "chrome Extension",
+      "url": "https://chrome.google.com/webstore/detail/chroma/gefgglgjdlddcpcapigheknbacbmmggp"
+    },
+    {
+      "name": "JSON Validator",
+      "description": "JSONLint is the free online validator and reformatter tool for JSON, a lightweight data-interchange format.",
+      "url": "https://jsonlint.com/"
+    },
+    {
+      "name": "Icon Finder",
+      "description": "Iconfinder is the world's largest marketplace for icons, illustrations and 3D illustrations in SVG, AI, and PNG format.",
+      "url": "http://www.iconfinder.com/"
+    },
+    {
+      "name": "Tabby",
+      "description": "chrome Extension",
+      "url": "https://chrome.google.com/webstore/detail/tabby/pifnjkdglcfkfpdjdolfacpfdlgpdkhp"
+    },
+    {
+      "name": "SQL Fiddle",
+      "description": "Application for testing and sharing SQL queries.",
+      "url": "http://www.sqlfiddle.com/"
+    },
+    {
+      "name": "0To255",
+      "description": "Find lighter and darker colors based on any color. Discover why over two million people have used 0to255 to choose colors for their website, logo, room interior, and print design projects.",
+      "url": "http://0to255.com/"
+    },
+    {
+      "name": "JS Hint",
+      "description": "JSHint, a JavaScript Code Quality Tool",
+      "url": "http://www.jshint.com/"
+    },
+    {
+      "name": "JS Bin",
+      "description": "A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more…",
+      "url": "http://jsbin.com/"
+    },
+    {
+      "name": "Detect Mobile Browsers",
+      "description": "Open source scripts to detect mobile browsers and phones using Apache, JavaScript, PHP, ASP, ColdFusion, C#, .NET, Python, JSP and Rails.",
+      "url": "http://detectmobilebrowsers.com/"
+    },
+    {
+      "name": "Web Developer Checklist",
+      "description": "The ultimate checklist for all serious web developers building modern websites. Make sure your site follows web development best practices.",
+      "url": "http://webdevchecklist.com/"
+    },
+    {
+      "name": "CSS Sprite",
+      "description": "A tool for generating image sprites and CSS for your web site. Using this tool can help you dramatically reduce the number of HTTP requests made for higher performance.",
+      "url": "http://spritegen.website-performance.org/"
+    },
+    {
+      "name": "Color Scheme",
+      "description": "In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes.",
+      "url": "http://www.colorschemedesigner.com/"
+    },
+    {
+      "name": "Button Maker",
+      "description": "Custom Button Maker",
+      "url": "http://css-tricks.com/examples/ButtonMaker/"
+    },
+    {
+      "name": "Ico Maker",
+      "description": "chrome Extension",
+      "url": "https://chrome.google.com/webstore/detail/icomoon/kppingdhhalimbaehfmhldppemnmlcjd"
+    },
+    {
+      "name": "Temporary e-mail",
+      "description": "Don't want to give them your real email? Use a temporary email. No registration, lasts 60 mins. Protection from Spam",
+      "url": "https://www.guerrillamail.com/"
+    },
+    {
+      "name": "JS Beautifier",
+      "description": "Online JavaScript beautifier",
+      "url": "http://jsbeautifier.org/"
+    },
+    {
+      "name": "CSS Validator",
+      "description": "The W3C CSS Validation Service",
+      "url": "http://jigsaw.w3.org/css-validator/"
+    },
+    {
+      "name": "Img To DataURI",
+      "description": "Online tool to convert images into base64 data-URIs for embedding as URLs directly into HTML images or stylesheet background-images.",
+      "url": "http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/"
+    },
+    {
+      "name": "Pattern Generator",
+      "description": "Patternify | CSS Pattern Generator",
+      "url": "http://www.patternify.com/"
+    },
+    {
+      "name": "Pretty Code",
+      "description": "Pretty Printer for PHP, Java, C++, C, Perl, JavaScript, CSS",
+      "url": "http://www.prettyprinter.de/"
+    },
+    {
+      "name": "JS Lint",
+      "description": "JSLint, The JavaScript Code Quality and Coverage Tool.This file allows JSLint to be run from a web browser.It can accept a source program and analyze it without sending it over the network.",
+      "url": "http://www.jslint.com/"
+    },
+    {
+      "name": "Arrow Maker",
+      "description": "CSSArrowPlease allows you to create and export CSS code for a custom box with an arrow extending out from the side.",
+      "url": "http://www.cssarrowplease.com/"
+    },
+    {
+      "name": "CSSMatic",
+      "description": "The ultimate CSS tools for web designers | CSSmatic",
+      "url": "http://www.cssmatic.com/"
+    },
+    {
+      "name": "Triangle Maker",
+      "description": "CSS triangle generator - A generator for pure CSS triangle",
+      "url": "http://apps.eky.hk/css-triangle-generator/"
+    },
+    {
+      "name": "Regexper",
+      "description": "Regular expression visualizer using railroad diagrams",
+      "url": "http://www.regexper.com/"
+    },
+    {
+      "name": "Sticky Notes",
+      "description": "chrome Extension",
+      "url": "https://chrome.google.com/webstore/detail/notty-notes/ggbmjahbkbhakkfgjiggdclpmmpmhajn"
+    },
+    {
+      "name": "CodePen",
+      "description": "An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.",
+      "url": "http://codepen.io/"
+    },
+    {
+      "name": "TL;DR Legal",
+      "description": "Lookup open source licenses summarized & explained in plain English",
+      "url": "http://www.tldrlegal.com/"
+    },
+    {
+      "name": "Subtle Patterns",
+      "description": "Subtle Patterns brought to you by Toptal, free textures for your next web project. Find out more here.",
+      "url": "http://subtlepatterns.com/"
+    },
+    {
+      "name": "Color Calculator",
+      "description": "Use the color wheel to find the perfect color scheme with the Sessions College color calculator. Endless free color combinations, working from any base color.",
+      "url": "http://www.sessions.edu/color-calculator"
+    },
+    {
+      "name": "Gradient Editor",
+      "description": "A powerful Photoshop-like CSS gradient editor",
+      "url": "http://www.colorzilla.com/gradient-editor/"
+    },
+    {
+      "name": "Color Scheme",
+      "description": "Browse and discover beautiful color combinations and color palettes for your designs with Colourcode.",
+      "url": "http://colourco.de/"
+    },
+    {
+      "name": "Modern Pictograms",
+      "description": "Designed to work in any context at any size, even on retina displays",
+      "url": "http://modernpictograms.com/"
+    },
+    {
+      "name": "Can I use…",
+      "description": "Can I use provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.",
+      "url": "https://caniuse.com/"
+    },
+    {
+      "name": "CSS3 Animation",
+      "description": "CSS3 Animation Cheat Sheet - Justin Aguilar",
+      "url": "http://www.justinaguilar.com/animations/#"
+    },
+    {
+      "name": "CSS Grid Cheat Sheet",
+      "description": "CSS Grid Cheat Sheet",
+      "url": "https://alialaa.github.io/css-grid-cheat-sheet/"
+    },
+    {
+      "name": "GRID: A simple visual cheatsheet for CSS Grid Layout",
+      "description": "Learn all about the properties available in CSS Grid Layout through simple visual examples.",
+      "url": "https://grid.malven.co"
+    },
+    {
+      "name": "CSS 3, Media Queries Cheat Sheet",
+      "description": "Media Queries Cheat Sheet",
+      "url": "https://mac-blog.org.ua/css-3-media-queries-cheat-sheet"
+    },
+    {
+      "name": "Vue.js 2.3 CheatSheet",
+      "description": "Vue js CheatSheet",
+      "url": "https://marozed.com/vue-cheatsheet/"
+    }
+   ]
